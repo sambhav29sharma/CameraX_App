@@ -1,0 +1,1 @@
+Developed a feature-rich camera application utilizing the latest CameraX API and Jetpack Compose, leveraging the MVVM architectural pattern and dependency injection for improved maintainability and testability.
